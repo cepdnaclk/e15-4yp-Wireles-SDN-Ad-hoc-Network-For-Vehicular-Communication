@@ -1,18 +1,17 @@
-# Project Name
+# Wireles SDN Ad-hoc network for vehicular communication
 
 ## Description
 
 This is a short desciption of the project. This section should be around 3 sentences.
 
 ## Team Members
-1. E/15/001 Student Name [[Website](http://www.ce.pdn.ac.lk/e15-batch/), [Email](mailto:e5001@ce.pdn.ac.lk)]
-2. E/15/002 Student Name [[Website](http://www.ce.pdn.ac.lk/e15-batch/), [Email](mailto:e5001@ce.pdn.ac.lk)]
-3. E/15/003 Student Name [[Website](http://www.ce.pdn.ac.lk/e15-batch/), [Email](mailto:e5001@ce.pdn.ac.lk)]
+1. E/15/261 Sandun Perera [Email](mailto:vidurangaperera1@gmail.com)]
+2. E/15/136 Anjana Illankoon [Email](mailto:ajuillankoon@gmail.com)]
+3. E/15/299 Madushi Ranasooriya [Email](mailto:smadu1996@gmail.com)]
 
 
 ## Supervisors
-1. Prof. Staff Name [[Website](http://www.ce.pdn.ac.lk/academic-staff/), [Email](mailto:lecturer@ce.pdn.ac.lk)]
-2. Dr. Satff Name [[Website](http://www.ce.pdn.ac.lk/academic-staff/), [Email](mailto:lecturer@ce.pdn.ac.lk)]
+1. Dr. Suneth Namal Karunarathna [[Website](http://www.ce.pdn.ac.lk/academic-staff/suneth-namal-karunarathna/), [Email](mailto:namal@eng.pdn.ac.lk)]
 
 
 ## Links
