@@ -1,6 +1,19 @@
 # Wireles SDN Ad-hoc network for vehicular communication
 
 ## Description
+Software Defined Network (SDN) is a vastly evolving network architecture approach that
+physically separates the network control plane from the data plane. The interconnection
+devices take forwarding decisions solely based on a set of multi-criteria policy rules
+defined by external applications called controllers. Vehicular communication becomes s
+trending topic in the transportation technology. Most of the researchers pay attention to
+the development of vehicular communication using wireless Software Defined Network in
+order to overcome from issues such as lack of intelligence and scalability of the network.
+The recent developments in SDN have paved the way to control and manage wireless
+ad-hoc networks. Wireless ad-hoc networks are distributed networks that work without
+fixed infrastructure and in which each network node is willing to forward network packets
+for other network nodes which in return provides a reliable platform in vehicleto-vehicle
+communication. The objective of this research is to review some benefits of wireless SDN
+and how SDN can be used to implement network on vehicle to vehicle communication.
 
 This is a short desciption of the project. This section should be around 3 sentences.
 
